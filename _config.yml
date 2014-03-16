@@ -1,5 +1,7 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-source: .
-destination : ../johnbk.github.io
+destination : D:/github/blog/johnbk.github.io
+encoding: UTF-8
+kramdown:
+  input: GFM
