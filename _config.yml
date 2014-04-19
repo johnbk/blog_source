@@ -1,7 +1,7 @@
-name: JOHNBABU KOPPOLU
 markdown: redcarpet
 pygments: true
 destination : D:/github/blog/johnbk.github.io
 encoding: UTF-8
 kramdown:
   input: GFM
+highlighter: pygments

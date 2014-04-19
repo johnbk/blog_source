@@ -4,8 +4,8 @@ title: JOHNBABU KOPPOLU
 ---
 <div id="home">
   {% for post in site.posts limit:1 %}
-      <h1>{{ post.title }} </h1>
-      <p class="meta">{{ post.date | date_to_string }}</p>
+      <p class="meta post-date">{{ post.date | date_to_string }}</p>
+      <h1 class="post-title">{{ post.title }} </h1>
       <div class="post">
           {{ post.content }}
       </div>

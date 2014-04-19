@@ -9,7 +9,7 @@ I belong to the Grady Booch army or the so called Java guy, the virtues of Objec
 
 But then something happened, few days after, all I was doing was scripting, using JavaScript, which you once considered is not even a "Programming Language". **Shi(F)t** happens.
 
->Java is to JavaScript what Car is to Carpet.  - Chris Heilmann
+> Java is to JavaScript what Car is to Carpet.  - Chris Heilmann
 
 Sweet.
 

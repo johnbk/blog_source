@@ -6,6 +6,9 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
@@ -17,19 +20,16 @@
 
         <div class="site">
           <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <!-- <h1 class="title"><a href="/">{{ site.name }}</a></h1> -->
             <a class="extra" href="/">Home</a>
             <a class="extra" href="/archive">Archive</a>
+            <a class="extra" href="/about">About</a>
           </div>
 
           {{ content }}
 
           <div class="footer">
             <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/johnbk</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/johnbk</a><br />
-              </p>
             </div>
           </div>
         </div>
