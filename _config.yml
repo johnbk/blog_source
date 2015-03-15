@@ -1,6 +1,6 @@
 markdown: redcarpet
 pygments: true
-destination : D:/github/blog/johnbk.github.io
+destination : /home/john/github/johnbk.github.io
 encoding: UTF-8
 kramdown:
   input: GFM
