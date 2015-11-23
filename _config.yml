@@ -1,7 +1,6 @@
 markdown: redcarpet
-pygments: true
 destination : /home/john/github/generated
 encoding: UTF-8
-kramdown:
-  input: GFM
 highlighter: pygments
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
